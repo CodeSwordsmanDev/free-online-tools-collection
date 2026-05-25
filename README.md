@@ -38,73 +38,73 @@ CodeSwordsman is a comprehensive collection of **free, ad-free, and professional
 ### Code Formatter
 
 - **Function:** One-click code formatting for multiple programming languages
-- **URL:** <https://lumtool.com/en-US/tools/code-formatter>
+- **URL:** <https://codeswordsman.com/en-US/tools/code-formatter>
 - **Features:** Supports JavaScript, TypeScript, Python, Java, Go, Rust, and more
 
 ### JSON Formatter
 
 - **Function:** Parse, format, validate, and highlight JSON data with real-time error detection
-- **URL:** <https://lumtool.com/en-US/tools/json-formatter>
+- **URL:** <https://codeswordsman.com/en-US/tools/json-formatter>
 - **Features:** Syntax highlighting, error prompts, large file support
 
 ### HTML Entities Converter
 
 - **Function:** Convert between HTML entities and plain text
-- **URL:** <https://lumtool.com/en-US/tools/html-entities-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/html-entities-converter>
 - **Features:** Batch processing, common entity shortcuts
 
 ### Color Converter
 
 - **Function:** Convert between RGB, HEX, HSL, CMYK color formats
-- **URL:** <https://lumtool.com/en-US/tools/color-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/color-converter>
 - **Features:** Color preview, palette suggestions
 
 ### Image Compressor
 
 - **Function:** Compress images while maintaining quality
-- **URL:** <https://lumtool.com/en-US/tools/image-compressor>
+- **URL:** <https://codeswordsman.com/en-US/tools/image-compressor>
 - **Features:** Batch processing, multiple output formats, quality preview
 
 ### Variable Naming Converter
 
 - **Function:** Convert between camelCase, snake\_case, PascalCase, kebab-case
-- **URL:** <https://lumtool.com/en-US/tools/variable-naming-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/variable-naming-converter>
 - **Features:** Smart detection, batch conversion, preview mode
 
 ### Base64 Image Converter
 
 - **Function:** Convert images to/from Base64 encoding
-- **URL:** <https://lumtool.com/en-US/tools/base64-image-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/base64-image-converter>
 - **Features:** Supports JPG, PNG, GIF, WebP, batch processing
 
 ### QR Code Generator
 
 - **Function:** Generate customizable QR codes for text, URLs, contacts
-- **URL:** <https://lumtool.com/en-US/tools/qrcode-generator>
+- **URL:** <https://codeswordsman.com/en-US/tools/qrcode-generator>
 - **Features:** Multiple styles, logo support, error correction levels
 
 ### Markdown Editor
 
 - **Function:** Write and preview Markdown in real-time
-- **URL:** <https://lumtool.com/en-US/tools/markdown-editor>
+- **URL:** <https://codeswordsman.com/en-US/tools/markdown-editor>
 - **Features:** Syntax highlighting, live preview, export options
 
 ### QR Code Reader
 
 - **Function:** Scan and decode QR codes from images
-- **URL:** <https://lumtool.com/en-US/tools/qrcode-reader>
+- **URL:** <https://codeswordsman.com/en-US/tools/qrcode-reader>
 - **Features:** High accuracy, supports multiple image formats
 
 ### Character Counter
 
 - **Function:** Count characters, words, lines, and paragraphs
-- **URL:** <https://lumtool.com/en-US/tools/character-counter>
+- **URL:** <https://codeswordsman.com/en-US/tools/character-counter>
 - **Features:** Real-time counting, multiple modes
 
 ### Text Processor
 
 - **Function:** Comprehensive text manipulation tools
-- **URL:** <https://lumtool.com/en-US/tools/text-processor>
+- **URL:** <https://codeswordsman.com/en-US/tools/text-processor>
 - **Features:** Find/replace, case conversion, text statistics
 
 ***
@@ -114,91 +114,91 @@ CodeSwordsman is a comprehensive collection of **free, ad-free, and professional
 ### Cron Expression Generator
 
 - **Function:** Visually generate Cron expressions without memorizing syntax
-- **URL:** <https://lumtool.com/en-US/tools/cron-generator>
+- **URL:** <https://codeswordsman.com/en-US/tools/cron-generator>
 - **Features:** Real-time execution preview, preset templates
 
 ### SQL Formatter
 
 - **Function:** Beautify SQL statements to improve readability
-- **URL:** <https://lumtool.com/en-US/tools/sql-formatter>
+- **URL:** <https://codeswordsman.com/en-US/tools/sql-formatter>
 - **Features:** Supports MySQL, PostgreSQL, SQL Server, Oracle, SQLite
 
 ### JSON to Entity Tool
 
 - **Function:** Convert JSON data into entity classes/models for various programming languages
-- **URL:** <https://lumtool.com/en-US/tools/json-to-entity>
+- **URL:** <https://codeswordsman.com/en-US/tools/json-to-entity>
 - **Features:** Supports TypeScript, Java, Python, Go, C#, Swift, Kotlin
 
 ### Regular Expression Tester
 
 - **Function:** Test and debug regular expressions online with real-time matching
-- **URL:** <https://lumtool.com/en-US/tools/regex-tester>
+- **URL:** <https://codeswordsman.com/en-US/tools/regex-tester>
 - **Features:** Syntax highlighting, match visualization, regex reference guide
 
 ### UUID Generator
 
 - **Function:** Generate standard-compliant UUIDs in multiple versions
-- **URL:** <https://lumtool.com/en-US/tools/uuid-generator>
+- **URL:** <https://codeswordsman.com/en-US/tools/uuid-generator>
 - **Features:** Version 1/3/4/5 support, batch generation
 
 ### Random String Generator
 
 - **Function:** Generate secure random strings
-- **URL:** <https://lumtool.com/en-US/tools/random-string-generator>
+- **URL:** <https://codeswordsman.com/en-US/tools/random-string-generator>
 - **Features:** Custom length, character set selection, password strength indicator
 
 ### URL Base64 Encoder/Decoder
 
 - **Function:** Encode and decode URLs using Base64
-- **URL:** <https://lumtool.com/en-US/tools/url-base64-encoder>
+- **URL:** <https://codeswordsman.com/en-US/tools/url-base64-encoder>
 - **Features:** Fast processing, supports large texts
 
 ### Timestamp Converter
 
 - **Function:** Convert between Unix timestamps and human-readable dates
-- **URL:** <https://lumtool.com/en-US/tools/timestamp-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/timestamp-converter>
 - **Features:** Multiple timezone support, custom formats
 
 ### CSV-JSON Converter
 
 - **Function:** Seamlessly convert between CSV and JSON formats
-- **URL:** <https://lumtool.com/en-US/tools/csv-json-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/csv-json-converter>
 - **Features:** Batch processing, high conversion accuracy
 
 ### Base Converter
 
 - **Function:** Convert between binary, octal, decimal, and hexadecimal
-- **URL:** <https://lumtool.com/en-US/tools/base-converter>
+- **URL:** <https://codeswordsman.com/en-US/tools/base-converter>
 - **Features:** Real-time conversion, history tracking
 
 ### Text Diff Tool
 
 - **Function:** Compare two text documents and highlight differences
-- **URL:** <https://lumtool.com/en-US/tools/text-diff>
+- **URL:** <https://codeswordsman.com/en-US/tools/text-diff>
 - **Features:** Side-by-side comparison, inline differences, export
 
 ### INI/YAML Formatter
 
 - **Function:** Format and validate INI and YAML configuration files
-- **URL:** <https://lumtool.com/en-US/tools/ini-yaml-formatter>
+- **URL:** <https://codeswordsman.com/en-US/tools/ini-yaml-formatter>
 - **Features:** Syntax highlighting, error detection
 
 ### URL Parser
 
 - **Function:** Parse and extract URL components
-- **URL:** <https://lumtool.com/en-US/tools/url-parser>
+- **URL:** <https://codeswordsman.com/en-US/tools/url-parser>
 - **Features:** Parameter extraction, URL validation, encoding detection
 
 ### Docker Compose Generator
 
 - **Function:** Generate Docker Compose configuration files visually
-- **URL:** <https://lumtool.com/en-US/tools/docker-compose-generator>
+- **URL:** <https://codeswordsman.com/en-US/tools/docker-compose-generator>
 - **Features:** Multi-service support, environment variable configuration
 
 ### Nginx Config Generator
 
 - **Function:** Generate Nginx configuration files with visual interface
-- **URL:** <https://lumtool.com/en-US/tools/nginx-config-generator>
+- **URL:** <https://codeswordsman.com/en-US/tools/nginx-config-generator>
 - **Features:** Virtual host configuration, SSL setup, reverse proxy
 
 ***
@@ -257,9 +257,9 @@ We welcome contributions! If you have suggestions or want to add new tools:
 
 ## 📧 Contact
 
-- **Official Website:** <https://lumtool.com>
+- **Official Website:** <https://codeswordsman.com>
 - **GitHub Repository:** <https://github.com/CodeSwordsmanDev/free-online-tools-collection.git>
-- **Feedback Email:** <support@lumtool.com>
+- **Feedback Email:** <support@codeswordsman.com>
 
 ***
 
