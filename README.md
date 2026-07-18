@@ -5,10 +5,6 @@
 
 🚀 **Professional Online Tools for Frontend & Backend Developers**
 
-![GitHub stars](https://img.shields.io/github/stars/CodeSwordsmanDev/free-online-tools-collection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/CodeSwordsmanDev/free-online-tools-collection?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/CodeSwordsmanDev/free-online-tools-collection)
-
 ## 📋 Table of Contents
 
 - [Introduction](#introduction)
@@ -201,6 +197,11 @@ CodeSwordsman is a comprehensive collection of **free, ad-free, and professional
 - **URL:** <https://codeswordsman.com/en-US/tools/nginx-config-generator>
 - **Features:** Virtual host configuration, SSL setup, reverse proxy
 
+### SQL to Go Struct - CodeSwordsman
+
+- **Function:** Convert MySQL SQL statements to Go struct definitions automatically
+- **URL:** <https://codeswordsman.com/en-US/tools/sql-to-go-struct>
+- **Features:** Free online SQL to Go Struct converter tool that automatically generates Go structs from SQL CREATE TABLE statements, helping developers quickly create data models.
 ***
 
 ## ✨ Features

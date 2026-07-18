@@ -201,6 +201,12 @@ CodeSwordsman 是一个全面的**免费、无广告、专业的在线工具**�
 - **网址：** <https://www.majk.cn/zh-CN/tools/nginx-config-generator>
 - **特色：** 虚拟主机配置、SSL设置、反向代理
 
+### SQL 转 Go Struct - 码剑客
+
+- **功能：** 将MySQLSQL语句转换为Go语言的结构体定义
+- **网址：** <https://www.majk.cn/zh-CN/tools/sql-to-go-struct>
+- **特色：** 免费在线 SQL 转 Go Struct 工具，支持从 SQL CREATE TABLE 语句自动生成 Go 语言结构体，帮助开发者快速创建数据模型。
+  
 ***
 
 ## ✨ 功能特色
